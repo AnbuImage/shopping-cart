@@ -1,0 +1,24 @@
+div.cart {
+    padding: 10px;
+    border: 1px solid black;
+    float: right;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  div.popup {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    padding: 15px 20px;
+    border: 1px solid red;
+    top: 80px;
+    right: 0px;
+  }
+  .menu-on {
+    display: block;
+  }
+  
+  .menu-off {
+    display: none;
+  }
